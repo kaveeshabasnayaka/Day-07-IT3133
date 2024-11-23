@@ -38,4 +38,4 @@ The updated state is displayed in the parent component.
 5. Open your browser and navigate to http://localhost:3000.
 
 ## output 
-output.png
+![alt text]output.png
